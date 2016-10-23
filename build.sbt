@@ -16,6 +16,7 @@ resolvers += "Unidata maven repository" at "http://artifacts.unidata.ucar.edu/co
 resolvers += "scalaz-bintray" at "http://dl.bintray.com/scalaz/releases"
 resolvers += "spray repo" at "http://repo.spray.io"
 resolvers += "Artima Maven Repository" at "http://repo.artima.com/releases"
+resolvers += "Geotoolkit" at "http://maven.geotoolkit.org/"
 
 libraryDependencies ++= Dependencies.scala
 
